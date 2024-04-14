@@ -1,8 +1,8 @@
 <?php
-  $servername = 'localhost';
-  $username = 'nola_njw1389';
-  $password = 'Ombees#1';
-  $dbname = 'nola_njw1389';
+  $servername = 'Edited For Github';
+  $username = 'Edited For Github';
+  $password = 'Edited For Github';
+  $dbname = 'Edited For Github';
 
   // Create connection
   $conn = new mysqli($servername, $username, $password, $dbname);
